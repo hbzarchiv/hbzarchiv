@@ -28,8 +28,59 @@
     text-transform: none;
 }
 
+.dl-button.mega {
+    background-image: url("/img/mega.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: padding-box;
+    font-size: 0;
+    height: 50px;
+    width: 200px;
+}
+
+.dl-button.ul {
+    background-image: url("/img/ul.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: padding-box;
+    font-size: 0;
+    height: 50px;
+    width: 200px;
+}
+
 .dl-button:hover {
     color: #fff;
     background-color: #0b5ed7;
     border-color: #0a58ca;
+}
+
+.dl {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.dl.mega:before {
+    content: '';
+    height: 18px;
+    width: 18px;
+    margin-right: 3px;
+    display: inline-block;
+    background-image: url("/img/mega-small.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.dl.ul:before {
+    content: '';
+    height: 18px;
+    width: 18px;
+    margin-right: 3px;
+    display: inline-block;
+    background-image: url("/img/ul-small.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
