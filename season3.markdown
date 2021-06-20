@@ -14,3 +14,4 @@ Stream | MEGA | Uploaded
 [Episode 07]({% post_url 2021-05-29-hc37 %}) | [Download](https://mega.nz/file/CD50gbwI#WKonjFkTJrc60NTYmaH0Sh5aplcOwwAOZNKqEsRprKU){:target="_blank" class="dl mega"} | [Download](http://ul.to/ybkjxd3n){:target="_blank" class="dl ul"} 
 [Episode 08]({% post_url 2021-06-05-hc38 %}) | [Download](https://mega.nz/file/uaog0DrL#NvsZ_18tB0Rt-7m9UVHdoTkqF7ZF2qqlfkcaIksT14E){:target="_blank" class="dl mega"} | [Download](http://ul.to/osnstrv5){:target="_blank" class="dl ul"} 
 [Episode 09]({% post_url 2021-06-12-hc39 %}) | [Download](https://mega.nz/file/WDxGEbSQ#c8Jr30eFf7REQAqr0RQKDwp5IeMM_XxxfhQzVMQu1Gc){:target="_blank" class="dl mega"} | [Download](http://ul.to/i95actsx){:target="_blank" class="dl ul"}   
+[Episode 10]({% post_url 2021-06-19-hc40 %}) | [Download](){:target="_blank" class="dl mega"} | [Download](){:target="_blank" class="dl ul"}   
