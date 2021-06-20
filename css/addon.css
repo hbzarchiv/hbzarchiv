@@ -84,3 +84,13 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+iframe[src^="https://vivo.sx"], iframe[src^="https://voe.sx"], iframe[src^="https://odysee.com"] {
+    aspect-ratio: 16 / 9;
+}
+
+@media screen and (max-width: 490px) {
+    .dl-button:not(:first-child) {
+        margin-top: .3rem;
+    }
+}
