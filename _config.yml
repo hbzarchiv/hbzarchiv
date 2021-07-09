@@ -18,18 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HBz Archive
+title: HBz Archiv
 email: admin@hbzhc.tk
 description: >- # this means to ignore newlines until "baseurl:"
-  HBz Home Clubbing Stream Archive. Watch old Home Clubbing Streams!
+  HBz Home Clubbing Stream Archiv. Staffel 3 Home Clubbing als Archiv zum angucken!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hbzhc.tk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hbzarchiv
+instagram_username: hbzmusic
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  date_format: "%d. %b %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

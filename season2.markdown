@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Season 2
-permalink: /season2/
+title: Staffel 2
+permalink: /staffel2/
 ---
 
-Unfortunately the idea only came to my mind with the start of season 3. So I can't provide season 1 or 2.
+Da mir die Idee mit dem Archiv für das <b>HBz Home Clubbing</b> erst mit dem Start von Staffel 3 gekommen ist kann ich Staffel 1 u. 2 leider nicht anbieten.
 
-If you have downloaded season 2 and can provide it to me please e-mail me at [s02@hbzhc.tk](mailto:s02@hbzhc.tk)
+Wenn die einer hat und mir geben möchte, bitte eine mail schreiben: [s02@hbzhc.tk](mailto:s02@hbzhc.tk)
