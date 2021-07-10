@@ -28,7 +28,7 @@ layout: default
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="{{post.thumb}}" alt="{{post.title | escape}}" class="post-thumb-img">
+          <img src="{{post.thumb}}" alt="{{post.title | escape}}" loading="lazy" class="post-thumb-img">
           <span>{{ post.title | escape }}</span>
         </a>
       </h3>
