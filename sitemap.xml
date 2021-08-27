@@ -1,56 +1,245 @@
----
-layout: null
-sitemap:
-    exclude: 'yes'
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    {% unless post.published == false %}
+    
+    
     <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.sitemap.lastmod %}
-        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-        {% elsif post.date %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-        {% endif %}
-        {% if post.sitemap.changefreq %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% else %}
+        <loc>https://hbzhc.tk/home-clubbing/2021/06/19/hc40.html</loc>
+        
+        <lastmod>2021-06-19T20:00:00+00:00</lastmod>
+        
+        
         <changefreq>monthly</changefreq>
-        {% endif %}
-        {% if post.sitemap.priority %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% else %}
+        
+        
         <priority>0.5</priority>
-        {% endif %}
+        
     </url>
-    {% endunless %}
-    {% endfor %}
-    {% for page in site.html_pages %}
-    {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
+    
+    
+    
     <url>
-        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-        {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-        {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-        {% endif %}
-        {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        {% else %}
+        <loc>https://hbzhc.tk/home-clubbing/2021/06/12/hc39.html</loc>
+        
+        <lastmod>2021-06-12T20:00:00+00:00</lastmod>
+        
+        
         <changefreq>monthly</changefreq>
-        {% endif %}
-        {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-        {% else %}
-        <priority>0.3</priority>
-        {% endif %}
+        
+        
+        <priority>0.5</priority>
+        
     </url>
-    {% endunless %}
-    {% endfor %}
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/06/05/hc38.html</loc>
+        
+        <lastmod>2021-06-05T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/05/29/hc37.html</loc>
+        
+        <lastmod>2021-05-29T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/05/22/hc36.html</loc>
+        
+        <lastmod>2021-05-22T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/05/15/hc35.html</loc>
+        
+        <lastmod>2021-05-15T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/05/08/hc34.html</loc>
+        
+        <lastmod>2021-05-08T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/05/01/hc33.html</loc>
+        
+        <lastmod>2021-05-01T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/04/24/hc32.html</loc>
+        
+        <lastmod>2021-04-24T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/home-clubbing/2021/04/17/hc31.html</loc>
+        
+        <lastmod>2021-04-17T20:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/404.html</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/ueber/</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/staffel1/</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/staffel2/</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://hbzhc.tk/staffel3/</loc>
+        
+        <lastmod>2021-07-10T13:22:35+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.3</priority>
+        
+    </url>
+    
+    
 </urlset>
