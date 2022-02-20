@@ -4,7 +4,7 @@ title: Staffel 3
 permalink: /staffel3/
 ---
 
-Stream | MEGA | Uploaded
+Stream | MEGA
 [Episode 01]({% post_url 2021-04-17-hc31 %}) | [Download](https://bit.ly/36rHN7b){:target="_blank" class="dl mega"} 
 [Episode 02]({% post_url 2021-04-24-hc32 %}) | [Download](https://bit.ly/3yHAsMT){:target="_blank" class="dl mega"} 
 [Episode 03]({% post_url 2021-05-01-hc33 %}) | [Download](https://bit.ly/3wuI9o7){:target="_blank" class="dl mega"} 
