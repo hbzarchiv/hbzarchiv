@@ -5,16 +5,16 @@ permalink: /staffel3/
 ---
 
 Stream | MEGA
-[Episode 01]({% post_url 2021-04-17-hc31 %}) | [Download](https://bit.ly/36rHN7b){:target="_blank" class="dl mega"} 
-[Episode 02]({% post_url 2021-04-24-hc32 %}) | [Download](https://bit.ly/3yHAsMT){:target="_blank" class="dl mega"} 
-[Episode 03]({% post_url 2021-05-01-hc33 %}) | [Download](https://bit.ly/3wuI9o7){:target="_blank" class="dl mega"} 
-[Episode 04]({% post_url 2021-05-08-hc34 %}) | [Download](https://bit.ly/3k7DyWm){:target="_blank" class="dl mega"} 
-[Episode 05]({% post_url 2021-05-15-hc35 %}) | [Download](https://bit.ly/3wwWNuY){:target="_blank" class="dl mega"} 
-[Episode 06]({% post_url 2021-05-22-hc36 %}) | [Download](https://bit.ly/3yM47V0){:target="_blank" class="dl mega"} 
-[Episode 07]({% post_url 2021-05-29-hc37 %}) | [Download](https://bit.ly/3r23N27){:target="_blank" class="dl mega"} 
-[Episode 08]({% post_url 2021-06-05-hc38 %}) | [Download](https://bit.ly/3wxjz5S){:target="_blank" class="dl mega"} 
-[Episode 09]({% post_url 2021-06-12-hc39 %}) | [Download](https://bit.ly/3hBoe2R){:target="_blank" class="dl mega"}   
-[Episode 10]({% post_url 2021-06-19-hc40 %}) | [Download](https://bit.ly/3xwtgTL){:target="_blank" class="dl mega"}  
+[Episode 01]({% post_url 2021-04-17-hc31 %}) | [Download](https://bit.ly/36rHN7b){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 02]({% post_url 2021-04-24-hc32 %}) | [Download](https://bit.ly/3yHAsMT){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 03]({% post_url 2021-05-01-hc33 %}) | [Download](https://bit.ly/3wuI9o7){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 04]({% post_url 2021-05-08-hc34 %}) | [Download](https://bit.ly/3k7DyWm){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 05]({% post_url 2021-05-15-hc35 %}) | [Download](https://bit.ly/3wwWNuY){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 06]({% post_url 2021-05-22-hc36 %}) | [Download](https://bit.ly/3yM47V0){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 07]({% post_url 2021-05-29-hc37 %}) | [Download](https://bit.ly/3r23N27){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 08]({% post_url 2021-06-05-hc38 %}) | [Download](https://bit.ly/3wxjz5S){:target="_blank" class="dl mega" rel="nofollow"} 
+[Episode 09]({% post_url 2021-06-12-hc39 %}) | [Download](https://bit.ly/3hBoe2R){:target="_blank" class="dl mega" rel="nofollow"}   
+[Episode 10]({% post_url 2021-06-19-hc40 %}) | [Download](https://bit.ly/3xwtgTL){:target="_blank" class="dl mega" rel="nofollow"}  
 
 <h1>Torrent</h1>
 <p>
