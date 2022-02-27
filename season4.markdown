@@ -7,6 +7,7 @@ permalink: /staffel4/
 Stream | MEGA
 [Episode 01]({% post_url 2022-02-12-hc41 %}) | 
 [Episode 02]({% post_url 2022-02-19-hc42 %}) | [Download](https://bit.ly/3Hk5nCF){:target="_blank" class="dl mega" rel="nofollow"}  
+[Episode 03]({% post_url 2022-02-26-hc43 %}) |   
 
 <!--<h1>Torrent</h1>
 <p>
